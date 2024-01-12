@@ -1,25 +1,11 @@
 # SystemDesignPreparation
 This is a repository to learn System Design for MAANG interviews on High Level Design and Low Level Design
 
-## 1. SOLID Principles
-```
-    S  - Single Responsibility Principle 
-    O  - Open/Closed Principle 
-    L  - Liskov Substitution Principle 
-    I  - Interface Segregation Principle 
-    D  - Dependency Inversion Principle 
+## Topics
 
-```
-
-### Advantages:
-```
-    Avoid code duplication 
-    Maintainability 
-    Easy to Understand 
-    Flexible Software 
-    Reduces Complexity 
-
-```
+### 1. SOLID Principles
+### 2. Design Patterns
+#### 2.1 Strategy Design Pattern
 
 ### OneNote
 #### Link:
