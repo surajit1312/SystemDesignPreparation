@@ -6,6 +6,7 @@ This is a repository to learn System Design for MAANG interviews on High Level D
 ### 1. SOLID Principles
 ### 2. Design Patterns
 #### 2.1 Strategy Design Pattern
+#### 2.2 Observer Design Pattern
 
 ### OneNote
 #### Link:
