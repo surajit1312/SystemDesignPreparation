@@ -1,0 +1,8 @@
+package LLD.Design_Patterns.Factory_Design_Pattern.shape;
+
+public class RectangleShape implements IShape {
+    @Override
+    public void draw() {
+        System.out.println("Draw Rectangle");
+    }
+}
